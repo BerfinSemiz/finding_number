@@ -1,0 +1,17 @@
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.Form1.resources
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.csproj.GenerateResource.cache
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.AssemblyInfoInputs.cache
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.AssemblyInfo.cs
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\bin\Debug\net8.0-windows\finding_number_game.exe
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\bin\Debug\net8.0-windows\finding_number_game.deps.json
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\bin\Debug\net8.0-windows\finding_number_game.runtimeconfig.json
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\bin\Debug\net8.0-windows\finding_number_game.dll
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\bin\Debug\net8.0-windows\finding_number_game.pdb
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.dll
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\refint\finding_number_game.dll
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.pdb
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.genruntimeconfig.cache
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\ref\finding_number_game.dll
+C:\Users\Berfin\Desktop\c#_projeleri\finding_number_game\finding_number_game\obj\Debug\net8.0-windows\finding_number_game.sourcelink.json
