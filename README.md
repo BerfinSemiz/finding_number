@@ -41,7 +41,7 @@ Sayı Bulma Oyunu, klasik "Mastermind" oyununun basitleştirilmiş bir versiyonu
 ### Adımlar
 1. **Projeyi İndirin**
    ```bash
-   git clone https://github.com/BerfinSemiz/sayi-bulma-oyunu.git
+   git clone https://github.com/BerfinSemiz/finding_number.git
    cd sayi-bulma-oyunu
    ```
 
@@ -132,4 +132,5 @@ Bu proje ile öğrenebileceğiniz konular:
 - Skor hesaplama algoritması
 
 Bu proje eğitim amaçlı geliştirilmiştir. Özgürce kullanabilir ve geliştirebilirsiniz.
+
 
